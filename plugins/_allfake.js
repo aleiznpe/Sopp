@@ -33,17 +33,17 @@ let user = global.db.data.users[who]
 let pushname = m.pushName || 'Sin nombre'
 
 //creador y otros
-global.creador = 'Wa.me/51993047526'
+global.creador = 'Wa.me/51992621601'
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
 global.asistencia = 'https://wa.me/qr/'
-global.namechannel = 'GHOST BOT'
+global.namechannel = 'ALEIZN BOT'
 
 //Reacciones De Comandos.!
 global.rwait = '🕒'
 global.done = '✅'
 global.error = '✖️'
 
-//Emojis determinado de GHOST BOT
+//Emojis determinado de ALEIZN BOT
 global.emoji = '🍁'
 global.emoji2 = '⭐'
 global.emoji3 = '✨️'
@@ -59,7 +59,7 @@ global.waitttt = '🚀 Cargando...'
 //Enlaces
 var canal = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIavq455'  
 var tiktok = 'https://www.tiktok.com/@savagehax'  
-var ig = 'https://www.instagram.com/alexnsnk7'  
+var ig = 'https://www.instagram.com/alexdre_sa'  
 let correo = 'alexnventas@gmail.com'
 
 global.redes = [tiktok, ig, correo].getRandom()

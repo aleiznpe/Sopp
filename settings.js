@@ -17,9 +17,9 @@ global.confirmCode = ''
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-   ['51993047526', 'Alexn', true],
-   ['51993047526', 'alexn', true],
-   ['51993047526'],
+   ['51992621601', 'Alexn', true],
+   ['51992621601', 'alexn', true],
+   ['51992621601'],
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -43,33 +43,33 @@ global.libreria = 'Baileys'
 global.baileys = '@whiskeysockets/baileys'
 global.vs = '2.0.7'
 global.languaje = 'Español'
-global.nameqr = 'Ghost Bot'
-global.namebot = 'GHOST BOT'
-global.sessions = 'GHOSTBOTSession'
-global.jadi = 'GHOSTBOTJadiBot'
+global.nameqr = 'ALEIZN Bot'
+global.namebot = 'ALEIZN BOT'
+global.sessions = 'ALEIZNBOTSession'
+global.jadi = 'ALEIZNBOTJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = 'GHOSTBOT'
-global.botname = 'GHOSTBOT'
+global.packname = 'ALEIZNBOT'
+global.botname = 'ALEIZNBOT'
 global.wm = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 𝘉𝘰𝘵'
 global.author = '𝙕𝙚𝙧𝙬𝙖𝙮'
 global.dev = '𝙉𝙤𝙩 𝙈𝙮 𝙋𝙧𝙤𝙡𝙚𝙢𝙖'
-global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 GHOSTBOT'
+global.textbot = '𝘞𝘩𝘢𝘵𝘴𝘈𝘱𝘱 ALEIZNBOT'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./src/img/catalogo.jpg')
-global.GHOSTBOT = fs.readFileSync('./src/img/GHOSTBOT.jpg')
+global.ALEIZNBOT = fs.readFileSync('./src/img/ALEIZNBOT.jpg')
 global.avatar = fs.readFileSync('./src/img/avatar_contact.png')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.grupo = 'https://chat.whatsapp.com/LbdiPrImAbI67gaA5Dyf3j'
+global.grupo = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'
 global.channel = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIavq555'
 global.channel2 = 'https://whatsapp.com/channel/0029Vb47YlCLdQemgIavq555'
 global.md = 'https://wa.me/qr/DQWLDASD555ADS' 
-global.ig = 'https://www.instagram.com/alexnsnk7'
+global.ig = 'https://www.instagram.com/alexdre_sa'
 global.tiktok = 'https://www.tiktok.com/@savagehax'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*

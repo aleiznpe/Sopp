@@ -1,4 +1,4 @@
-//Código desarollado por Semi, https://wa.me/51993047526)
+//Código desarollado por Semi, https://wa.me/51992621601)
 let handler = async (m, { conn, text, participants }) => {
   const mime = m.mtype
   const type = /imageMessage|videoMessage|conversation|extendedTextMessage/.test(mime)
@@ -8,7 +8,7 @@ let handler = async (m, { conn, text, participants }) => {
     } else if ((mime === 'videoMessage')) {
       conn.sendMessage(m.chat, { video: await m.download?.(), mentions: participants.map(u => conn.decodeJid(u.id)), mimetype: 'video/mp4', caption: text ? text : "" }, { quoted: m })
     } else if ((mime === ("conversation") || ("extendedTextMessage"))) {
-      conn.sendMessage(m.chat, { text: text ? text : "@alexnsnk7", mentions: participants.map(u => conn.decodeJid(u.id)) }, { quoted: m })
+      conn.sendMessage(m.chat, { text: text ? text : "@alexdre_sa", mentions: participants.map(u => conn.decodeJid(u.id)) }, { quoted: m })
     }
   } else if (m.quoted) {
     await conn.sendMessage(m.chat, { forward: m.quoted.fakeObj, mentions: participants.map(u => conn.decodeJid(u.id)) }, { quoted: m })
